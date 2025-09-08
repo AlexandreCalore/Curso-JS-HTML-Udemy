@@ -1,15 +1,23 @@
-# Curso Udemy - JavaScript e TypeScript
+# Curso Udemy - JavaScript e HTML
 
-Repositório dedicado aos estudos do curso **JavaScript e TypeScript** realizado pela Udemy.
+Repositório dedicado aos estudos do curso **JavaScript e HTML** realizado pela Udemy.
 
 ## Conteúdo
-- Fundamentos de JavaScript
-- ES6+ e recursos modernos
-- Introdução ao TypeScript
-- Orientação a Objetos
-- Prática com projetos pequenos
+
+### HTML
+- Estrutura básica e tags principais
+- Formulários e inputs
+- Semântica e atributos importantes
+- Inclusão de scripts
+
+### JavaScript
+- Variáveis, tipos e operadores
+- Funções e estruturas de controle
+- Objetos e arrays
+- Manipulação de DOM e eventos
+- Interação HTML e JS
 
 ---
 
 ## Objetivo
-Consolidar a base em **JavaScript** e evoluir para **TypeScript**, preparando para frameworks modernos.
+Criar páginas web estruturadas com **HTML** e interativas com **JavaScript**.
